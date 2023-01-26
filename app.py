@@ -1,6 +1,6 @@
 import streamlit as st
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.header("GPT-3 8booking Replier")
 review  = st.text_area("Enter Customer Review")
